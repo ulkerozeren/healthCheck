@@ -1,0 +1,13 @@
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\bin\Debug\net7.0\HealthCheck.Resources.deps.json
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\bin\Debug\net7.0\HealthCheck.Resources.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\bin\Debug\net7.0\HealthCheck.Resources.pdb
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.ServiceResources.resources
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.csproj.GenerateResource.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.AssemblyInfoInputs.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.AssemblyInfo.cs
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.csproj.CoreCompileInputs.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\refint\HealthCheck.Resources.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\HealthCheck.Resources.pdb
+D:\HealthCheck\HealthCheck\HealthCheck.Resources\obj\Debug\net7.0\ref\HealthCheck.Resources.dll

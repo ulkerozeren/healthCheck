@@ -1,0 +1,56 @@
+﻿@model List<ApplicationModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Model != null)
+{
+    <div class="container">
+        <h2>Applications</h2>
+        <div class="row">
+            <div class="col-4"></div>
+            <div class="col-4"></div>
+            <div class="col-4"></div>
+            <div class="col-4">             
+                <a href="@Url.Action("Add", "Home")" class="btn btn-success" role="button">Add Application</a>
+            </div>
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Url</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var application in Model)
+                {
+                    <tr>
+                        <td>"@application.Name"</td>
+                        <td>"@application.Url"</td>
+                        <td>
+                            <a href="@Url.Action("Edit", "Home", new {id=application.Id, name=application.Name,url=application.Url})" class="btn btn-warning" role="button">Edit</a>
+                        </td>
+
+                        <td>
+                            <a href="@Url.Action("Delete", "Home", new { id = application.Id })"
+                               class="btn btn-danger" role="button" onclick="" return confirm('Are you sure you to delete this Record?')">Delete</a>
+                        </td>
+                        @* <td><button class="btn-warning"> @Html.ActionLink("Delete", "Home", new { id = application.Id }, new {  @OnClick = "return confirm('Are you sure you to delete this Record?');" })</button></td> *@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <p>Application bulunmamaktadır.</p>
+}
+
+
+

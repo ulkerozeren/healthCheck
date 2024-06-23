@@ -1,0 +1,12 @@
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\HealthCheck.Core.csproj.AssemblyReference.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\HealthCheck.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\HealthCheck.Core.AssemblyInfoInputs.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\HealthCheck.Core.AssemblyInfo.cs
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\HealthCheck.Core.csproj.CoreCompileInputs.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Core\bin\Debug\net7.0\HealthCheck.Core.deps.json
+D:\HealthCheck\HealthCheck\HealthCheck.Core\bin\Debug\net7.0\HealthCheck.Core.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Core\bin\Debug\net7.0\HealthCheck.Core.pdb
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\HealthCheck.Core.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\refint\HealthCheck.Core.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\HealthCheck.Core.pdb
+D:\HealthCheck\HealthCheck\HealthCheck.Core\obj\Debug\net7.0\ref\HealthCheck.Core.dll

@@ -1,0 +1,14 @@
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\bin\Debug\net7.0\HealthCheck.Entity.deps.json
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\bin\Debug\net7.0\HealthCheck.Entity.runtimeconfig.json
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\bin\Debug\net7.0\HealthCheck.Entity.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\bin\Debug\net7.0\HealthCheck.Entity.pdb
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.csproj.AssemblyReference.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.AssemblyInfoInputs.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.AssemblyInfo.cs
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.csproj.CoreCompileInputs.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\refint\HealthCheck.Entity.dll
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.pdb
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\HealthCheck.Entity.genruntimeconfig.cache
+D:\HealthCheck\HealthCheck\HealthCheck.Entity\obj\Debug\net7.0\ref\HealthCheck.Entity.dll

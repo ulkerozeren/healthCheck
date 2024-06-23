@@ -1,0 +1,32 @@
+﻿@model UserLoginModel
+@{
+    ViewData["Title"] = "SignIn";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Giriş</title>
+    <link href="~/css/simplex.css" rel="stylesheet" />
+    <link href="~/css/SignIn.css" rel="stylesheet" />
+</head>
+<body>
+    <form asp-action="SignIn" asp-controller="Account" method="post" class="form-signin">
+        <div class="form-group">
+            <label asp-for="@Model.UserName">Kullanıcı Adı:</label>
+            <input type="text" asp-for="@Model.UserName" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Password">Şifre:</label>
+            <input type="password" asp-for="@Model.Password" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-info btn-block">Giriş Yap</button>
+    </form>
+</body>
+</html>
+
+
+

@@ -1,0 +1,31 @@
+﻿@model UpdateApplicationModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model != null)
+{
+    <form class="mt-4 w-75 p-3 shadow mx-auto" asp-action="Edit" method="post">
+        <div class="form-group">
+            <label asp-for="@Model.Name"></label>
+            <input type="text" asp-for="@Model.Name" class="form-control" />
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+         
+        <div class="form-group">
+            <label asp-for="@Model.Url"></label>
+            <input asp-for="@Model.Url" class="form-control" />
+            <span class="text-danger" asp-validation-for="@Model.Url"></span>
+        </div>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <br />
+        <button type="submit" class="btn btn-sm btn-success">Kaydet</button>
+
+    </form>
+}
+else
+{
+    <p>Application bulunmamaktadır.</p>
+}
